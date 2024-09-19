@@ -21,3 +21,161 @@ criaCartao(
     'O que é um brawler?',
     'É um nome para personagem'
 )
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+criaCartao(
+    'Brawl Stars',
+    'O que é um brawler?',
+    'É um nome para personagem'
+)
+
+
