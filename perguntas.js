@@ -1,181 +1,181 @@
 criaCartao(
-    'LoL',
+    'Pergunta',
     'O que é late game?',
     'É uma tag que significa o final do jogo'
 )
 
 criaCartao(
-    'COD',
+    'Pergunta',
     'O que é bait?',
     'Uma tag para armadilha no jogo COD'
 )
 
 criaCartao(
-    'Free Fire',
+    'Pergunta',
     'O que significa HS?',
     'Significa tiro na cabeça'
 )
 
 criaCartao(
-    'Brawl Stars',
+    'Pergunta',
     'O que é um brawler?',
     'É um nome para personagem'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'O que significa vegano?',
+    'É uma pessoa que não come carne'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    ' Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue??',
+    'Tem entre 4 a 6 litros. São retirados 450 mililitros'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    ' De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Em que ordem surgiram os modelos atômicos?',
+    'Dalton, Thomson, Rutherford, Rutherford-Bohr'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual personagem folclórico costuma ser agradado pelos caçadores com a oferta de fumo?',
+    'Caipora'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Em que período da pré-história o fogo foi descoberto??',
+    ' Paleolítico'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual das alternativas abaixo apenas contêm classes de palavras?',
+    'Substantivo, verbo e preposição'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual a montanha mais alta do Brasil?',
+    ' Pico da Neblina'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual a altura da rede de vôlei nos jogos masculino e feminino?',
+    '2,43 m e 2,24 m'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quais são os três predadores do reino animal reconhecidos pela habilidade de caçar em grupo, se camuflar para surpreender as presas e possuir sentidos apurados, respectivamente:',
+    'Hiena, urso branco e lobo cinzento'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Fabiano pegou seu paletó antes de sair?',
+    'Argentina'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual a tradução da frase “Fabiano cogió su saco antes de salir”?',
+    'Fabiano pegou seu paletó antes de sair'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quanto tempo a luz do Sol demora para chegar à Terra?',
+    '8 minutos'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quem pintou "Guernica"?',
+    ' Pablo Picasso'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quais as duas datas que são comemoradas em novembro?',
+    ' Proclamação da República e Dia Nacional da Consciência Negra'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    ' Quais os principais autores do Barroco no Brasil?',
+    'Gregório de Matos, Bento Teixeira e Manuel Botelho de Oliveira'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    ' Qual o número mínimo de jogadores em cada time numa partida de futebol?',
+    '7'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    ' O que a palavra legend significa em português?',
+    ' Lenda'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quais os países que têm a maior e a menor expectativa de vida do mundo?',
+    'Japão e Serra Leoa'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quantas casas decimais tem o número pi?',
+    'Infinitas'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual o livro mais vendido no mundo a seguir à Bíblia?',
+    'Dom Quixote'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual o grupo em que todas as palavras foram escritas corretamente?',
+    'Asterisco, beneficente, meteorologia, entretido'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
+    ' João Goulart'
 )
 
 criaCartao(
-    'Brawl Stars',
-    'O que é um brawler?',
-    'É um nome para personagem'
+    'Pergunta',
+    'Quais o menor e o maior país do mundo?',
+    'Vaticano e Rússia'
 )
 
 

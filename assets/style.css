@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #ca251a;
+    --card-front-color: #4690bb;
     --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('img/rl_s12_hero_16-9.BJ5NSUR63.webp');
+    background: url('img/pexels-felixmittermeier-956981.jpg');
     font-family: Bai Jamjuree;
 }
 
